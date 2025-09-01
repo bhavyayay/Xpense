@@ -193,7 +193,7 @@ curl -X POST http://localhost:5000/api/transactions \
 
 ## License
 
-This project currently does not declare a license. Add one (e.g., MIT) if you plan to open-source.
+This project currently does not declare a license. 
 
 ---
 
